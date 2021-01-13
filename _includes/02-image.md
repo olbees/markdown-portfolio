@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of the Endurance](https://upload.wikimedia.org/wikipedia/en/7/7f/Endurance3.jpg)
